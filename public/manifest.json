@@ -1,0 +1,9 @@
+{
+  "short_name": "جسر",
+  "name": "جسر - Jesr | التواصل الذكي",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
